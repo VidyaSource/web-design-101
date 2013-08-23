@@ -1,0 +1,45 @@
+* {
+    font-family: "Droid Sans", sans-serif;
+}
+
+header {
+    background-color: #9c4d61;
+    text-align: center;
+}
+
+img {
+    background-color: white;
+    max-width: 300px;
+    margin: 20px auto 20px auto;
+    padding: 10px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -o-border-radius: 20px;
+    border-radius: 20px;
+}
+
+h1, h3, .center {
+    text-align: center;
+}
+
+p {
+    width: 70%;
+    font-size: 16pt;
+    margin: 20px auto 20px auto;
+}
+
+a {
+    color: #5a82b4;
+}
+
+a:visited {
+    color: #9c4d61;
+}
+
+a:hover {
+    color: #9bae87;
+}
+
+button {
+    font-size: 24pt;
+}
