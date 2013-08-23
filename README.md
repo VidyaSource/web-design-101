@@ -2,8 +2,9 @@
 
 ##Description
 
-These are the files that accompany the Vidya video tutorial [Web Design 101](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A)
-on the relationship among HTML, CSS, and JavaScript.
+These are the files that accompany the [Vidya](http://www.vidyasource.com) video tutorial 
+[Web Design 101](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A) on the relationship 
+among HTML, CSS, and JavaScript.
 
 
 ##Intended Audience
