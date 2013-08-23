@@ -1,21 +1,17 @@
 #Vidya Tutorial: Web Design 101
-============
 
 ##Description
-============
 
 These are the files that accompany our video tutorial [Web Design 101](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A)
 on the relationship among HTML, CSS, and JavaScript.
 
 
 ##Intended Audience
-============
 
 Beginners in web design who want to learn the basics of HTML, CSS, and JavaScript and how these technologies fit together.
 
 
 ##Questions?
-============
 
 If you have questions, please check out our [wesbite](http://www.vidyasource.com) or [E-mail](mailto:info@vidyasource.com) us.
 
