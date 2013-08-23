@@ -13,7 +13,7 @@ Beginners in web design who want to learn the basics of HTML, CSS, and JavaScrip
 
 ##Questions?
 
-If you have questions, please check out our [wesbite](http://www.vidyasource.com) or [E-mail](mailto:info@vidyasource.com) us.
+If you have questions, please check out the Vidya [wesbite](http://www.vidyasource.com) or [E-mail](mailto:info@vidyasource.com) us.
 
 Or you can find us pretty much everywhere:
 
