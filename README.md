@@ -11,6 +11,10 @@ among HTML, CSS, and JavaScript.
 
 Beginners in web design who want to learn the basics of HTML, CSS, and JavaScript and how these technologies fit together.
 
+##Instructions
+
+Just download the files and open up *tutorial.html*. Follow along with the tutorial [video](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A)
+or play with the HTML elements, CSS styles, or JavaScript code yourself in your favorite editor to see how the page changes.  
 
 ##Questions?
 
