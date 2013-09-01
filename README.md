@@ -14,7 +14,12 @@ Beginners in web design who want to learn the basics of HTML, CSS, and JavaScrip
 ##Instructions
 
 Just download the files and open up *tutorial.html*. Follow along with the tutorial [video](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A)
-or play with the HTML elements, CSS styles, or JavaScript code yourself in your favorite editor to see how the page changes.  
+or play with the HTML elements, CSS styles, or JavaScript code yourself in your favorite editor to see how the page changes.
+
+##Props
+
+This tutorial uses some CSS from the awesome [Twitter Bootstrap](http://getbootstrap.com/2.3.2/) project and the beloved
+[JQuery](http://jquery.com/) library
 
 ##Questions?
 
