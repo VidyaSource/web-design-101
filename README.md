@@ -18,8 +18,8 @@ or play with the HTML elements, CSS styles, or JavaScript code yourself in your 
 
 ##Props
 
-This tutorial uses some CSS from the awesome [Twitter Bootstrap](http://getbootstrap.com/2.3.2/) project and the beloved
-[JQuery](http://jquery.com/) library.
+This tutorial uses some CSS from the awesome [Twitter Bootstrap](http://getbootstrap.com/2.3.2/) project. It also uses the beloved
+[JQuery](http://jquery.com/) library for some simple JavaScript functionality.
 
 ##Questions?
 
