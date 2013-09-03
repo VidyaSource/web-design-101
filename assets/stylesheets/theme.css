@@ -29,12 +29,12 @@ a {
     color: #5a82b4;
 }
 
-a:visited {
-    color: #9c4d61;
-}
-
 a:hover {
     color: #9bae87;
+}
+
+a:visited {
+    color: #9c4d61;
 }
 
 button {
