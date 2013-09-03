@@ -12,9 +12,6 @@ img {
     max-width: 300px;
     margin: 20px auto 20px auto;
     padding: 10px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -o-border-radius: 20px;
     border-radius: 20px;
 }
 
