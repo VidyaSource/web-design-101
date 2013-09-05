@@ -9,7 +9,8 @@ among HTML, CSS, and JavaScript.
 
 ##Intended Audience
 
-Beginners in web design who want to learn the basics of HTML, CSS, and JavaScript and how these technologies fit together.
+Beginners in web design who haven't done anything more complicated on the web than tag their friends on Facebook but want to learn the basics of HTML,
+CSS, and JavaScript and how these technologies fit together.
 
 ##Instructions
 
