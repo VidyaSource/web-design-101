@@ -3,7 +3,7 @@
 ##Description
 
 These are the files that accompany the [Vidya](http://www.vidyasource.com) video tutorial 
-[Web Design 101](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A) on the relationship 
+[Web Design 101](http://www.youtube.com/watch?v=xmhnNUotIaE) on the relationship 
 among HTML, CSS, and JavaScript.
 
 
@@ -14,7 +14,7 @@ CSS, and JavaScript and how these technologies fit together.
 
 ##Instructions
 
-Just download the files and open up *tutorial.html*. Follow along with the tutorial [video](https://www.youtube.com/channel/UC24LVc8Bb65SF6LW-SLog9A)
+Just download the files and open up *tutorial.html*. Follow along with the tutorial [video](http://www.youtube.com/watch?v=xmhnNUotIaE)
 or play with the HTML elements, CSS styles, or JavaScript code yourself in your favorite editor to see how the page changes.
 
 ##Props
